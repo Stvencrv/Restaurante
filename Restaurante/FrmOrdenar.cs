@@ -181,13 +181,13 @@ namespace Restaurante
 
             CajaItemes Bebida2 = new CajaItemes
             {
-                Text = "Cerveza Artesanal",
+                Text = "Vino La Fuerza",
                 Value = 2
             };
 
             CajaItemes Bebida3 = new CajaItemes
             {
-                Text = "Colcacola",
+                Text = "Colacao",
                 Value = 3
             };
 

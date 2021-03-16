@@ -204,13 +204,13 @@ namespace Restaurante
             };
 
 
-            CmbBebida.Items.Add(PorDefecto);
-            CmbBebida.Items.Add(Bebida1);
-            CmbBebida.Items.Add(Bebida2);
-            CmbBebida.Items.Add(Bebida3);
-            CmbBebida.Items.Add(Bebida4);
-            CmbBebida.Items.Add(Bebida5);
-            CmbBebida.SelectedItem = PorDefecto;
+            CmbxBebida.Items.Add(PorDefecto);
+            CmbxBebida.Items.Add(Bebida1);
+            CmbxBebida.Items.Add(Bebida2);
+            CmbxBebida.Items.Add(Bebida3);
+            CmbxBebida.Items.Add(Bebida4);
+            CmbxBebida.Items.Add(Bebida5);
+            CmbxBebida.SelectedItem = PorDefecto;
 
         }
 
@@ -252,23 +252,24 @@ namespace Restaurante
             };
 
 
-            CmbPostre.Items.Add(PorDefecto);
-            CmbPostre.Items.Add(Postre1);
-            CmbPostre.Items.Add(Postre2);
-            CmbPostre.Items.Add(Postre3);
-            CmbPostre.Items.Add(Postre4);
-            CmbPostre.Items.Add(Postre5);
-            CmbPostre.SelectedItem = PorDefecto;
+            CmbxPostre.Items.Add(PorDefecto);
+            CmbxPostre.Items.Add(Postre1);
+            CmbxPostre.Items.Add(Postre2);
+            CmbxPostre.Items.Add(Postre3);
+            CmbxPostre.Items.Add(Postre4);
+            CmbxPostre.Items.Add(Postre5);
+            CmbxPostre.SelectedItem = PorDefecto;
 
         }
 
 
 
 
+
+
+
         #endregion
 
-        
-
-        
+       
     }
 }

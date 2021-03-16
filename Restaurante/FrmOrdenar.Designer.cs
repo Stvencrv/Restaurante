@@ -35,8 +35,8 @@ namespace Restaurante
             this.CmbEntrada = new System.Windows.Forms.ComboBox();
             this.CmbxPlatosFuertes = new System.Windows.Forms.ComboBox();
             this.tableLayoutPanel6 = new System.Windows.Forms.TableLayoutPanel();
-            this.CmbBebida = new System.Windows.Forms.ComboBox();
-            this.CmbPostre = new System.Windows.Forms.ComboBox();
+            this.CmbxBebida = new System.Windows.Forms.ComboBox();
+            this.CmbxPostre = new System.Windows.Forms.ComboBox();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.BtnCancelar = new System.Windows.Forms.Button();
             this.BtnGuardar = new System.Windows.Forms.Button();
@@ -148,8 +148,8 @@ namespace Restaurante
             this.tableLayoutPanel6.ColumnCount = 1;
             this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tableLayoutPanel6.Controls.Add(this.CmbBebida, 0, 0);
-            this.tableLayoutPanel6.Controls.Add(this.CmbPostre, 0, 1);
+            this.tableLayoutPanel6.Controls.Add(this.CmbxBebida, 0, 0);
+            this.tableLayoutPanel6.Controls.Add(this.CmbxPostre, 0, 1);
             this.tableLayoutPanel6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel6.Location = new System.Drawing.Point(254, 208);
             this.tableLayoutPanel6.Name = "tableLayoutPanel6";
@@ -159,27 +159,27 @@ namespace Restaurante
             this.tableLayoutPanel6.Size = new System.Drawing.Size(433, 64);
             this.tableLayoutPanel6.TabIndex = 4;
             // 
-            // CmbBebida
+            // CmbxBebida
             // 
-            this.CmbBebida.BackColor = System.Drawing.SystemColors.Menu;
-            this.CmbBebida.Dock = System.Windows.Forms.DockStyle.Left;
-            this.CmbBebida.ForeColor = System.Drawing.SystemColors.Desktop;
-            this.CmbBebida.FormattingEnabled = true;
-            this.CmbBebida.Location = new System.Drawing.Point(3, 3);
-            this.CmbBebida.Name = "CmbBebida";
-            this.CmbBebida.Size = new System.Drawing.Size(243, 21);
-            this.CmbBebida.TabIndex = 0;
+            this.CmbxBebida.BackColor = System.Drawing.SystemColors.Menu;
+            this.CmbxBebida.Dock = System.Windows.Forms.DockStyle.Left;
+            this.CmbxBebida.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.CmbxBebida.FormattingEnabled = true;
+            this.CmbxBebida.Location = new System.Drawing.Point(3, 3);
+            this.CmbxBebida.Name = "CmbxBebida";
+            this.CmbxBebida.Size = new System.Drawing.Size(243, 21);
+            this.CmbxBebida.TabIndex = 0;
             // 
-            // CmbPostre
+            // CmbxPostre
             // 
-            this.CmbPostre.BackColor = System.Drawing.SystemColors.Menu;
-            this.CmbPostre.Dock = System.Windows.Forms.DockStyle.Left;
-            this.CmbPostre.ForeColor = System.Drawing.SystemColors.Desktop;
-            this.CmbPostre.FormattingEnabled = true;
-            this.CmbPostre.Location = new System.Drawing.Point(3, 35);
-            this.CmbPostre.Name = "CmbPostre";
-            this.CmbPostre.Size = new System.Drawing.Size(243, 21);
-            this.CmbPostre.TabIndex = 1;
+            this.CmbxPostre.BackColor = System.Drawing.SystemColors.Menu;
+            this.CmbxPostre.Dock = System.Windows.Forms.DockStyle.Left;
+            this.CmbxPostre.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.CmbxPostre.FormattingEnabled = true;
+            this.CmbxPostre.Location = new System.Drawing.Point(3, 35);
+            this.CmbxPostre.Name = "CmbxPostre";
+            this.CmbxPostre.Size = new System.Drawing.Size(243, 21);
+            this.CmbxPostre.TabIndex = 1;
             // 
             // tableLayoutPanel2
             // 
@@ -434,8 +434,8 @@ namespace Restaurante
         private System.Windows.Forms.ComboBox CmbEntrada;
         private System.Windows.Forms.ComboBox CmbxPlatosFuertes;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel6;
-        private System.Windows.Forms.ComboBox CmbBebida;
-        private System.Windows.Forms.ComboBox CmbPostre;
+        private System.Windows.Forms.ComboBox CmbxBebida;
+        private System.Windows.Forms.ComboBox CmbxPostre;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel4;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;

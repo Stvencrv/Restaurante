@@ -1,0 +1,6 @@
+C:\Users\cristian\source\repos\Restaurante\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\cristian\source\repos\Restaurante\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\Restaurante\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\cristian\source\repos\Restaurante\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\cristian\source\repos\Restaurante\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\cristian\source\repos\Restaurante\LogicLayer\obj\Debug\LogicLayer.pdb

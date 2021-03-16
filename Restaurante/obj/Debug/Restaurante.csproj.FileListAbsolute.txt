@@ -1,0 +1,42 @@
+C:\Users\cristian\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\cristian\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\cristian\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\cristian\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\cristian\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.FrmPrincipal.resources
+C:\Users\cristian\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\cristian\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\cristian\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\cristian\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\cristian\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.FrmOrdenar.resources
+C:\Users\cristian\source\repos\Restaurante\Restaurante\bin\Debug\LogicLayer.dll
+C:\Users\cristian\source\repos\Restaurante\Restaurante\bin\Debug\LogicLayer.pdb
+C:\Users\cristian\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\bin\Debug\LogicLayer.dll
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\bin\Debug\LogicLayer.pdb
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\obj\Debug\Restaurante.FrmOrdenar.resources
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\obj\Debug\Restaurante.FrmPrincipal.resources
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\steven\Desktop\AppRestaurant\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\bin\Debug\LogicLayer.dll
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\bin\Debug\LogicLayer.pdb
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\obj\Debug\Restaurante.FrmOrdenar.resources
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\obj\Debug\Restaurante.FrmPrincipal.resources
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\steven\Desktop\AppRestaurant - copia\Restaurante\obj\Debug\Restaurante.pdb
